@@ -1,0 +1,58 @@
+{
+  "Sunday":
+  {
+    "Breakfast":["Mushroom Paratha 2","Tomato chutney","Scrambled egg(2)"],
+    "Mid meal":["plain Yoghurt with raw vegetables / grilled vegetables -1 cup"],
+    "Lunch":["1/2 cup rice","3 Chapatis","Fish masala 1 cup( fish 180 g)","Snake guard Sabji 1/2 cup"],
+    "Evening":["1 cup Boiled Channa","1 cup light Tea "],
+    "Dinner":["3 Chapatis","1/2 cup mix veg curry"]
+  },
+  "Monday":
+  {
+    "Breakfast":["4 Idly,Sambhar 1/2 cup","1 table spoon Green chutney/ Tomato Chutney","2 egg white"],
+    "Mid meal":["1 banana","almond milk shake"],
+    "Lunch":["1 cup rice","Soya chunk curry 1/2 cup","Ladies finger sabji 1/2 cup","small cup low fat curd"],
+    "Evening":["1 cup tea","Home made protein bar"],
+    "Dinner":["3 Chapatis","Ridge guard Sabji 1/2 cup"]
+  },
+  "Tuesday":
+  {
+    "Breakfast":["Sprouts & Paneer Paratha 3","Green chutney"],
+    "Mid meal":["1 cup Boiled black channa"],
+    "Lunch":["1.5 cup rice+ chicken curry( 150 gm chicken)","Palak Sabji 1/2 cup","1/2 cup low fat curd"],
+    "Evening":["1 Portion fruit salad","Yoghurt"],
+    "Dinner":["Broken wheat Upma 1 cup","1/2 cup green beans Sabji"]
+  },
+  "Wednesday":
+  {
+    "Breakfast":["Chicken sandwich(4 slice bread)","1 cup skimmed milk"],
+    "Mid meal":["1 Portion fruit salad","Cottage cheese"],
+    "Lunch":["Veg Pulao rice 1.5 cup","1 cup Soya Chunk curry","1/2 cup Low fat curd"],
+    "Evening":["1 cup light tea","Chicken salad 1 cup"],
+    "Dinner":["3 Chapatis","Ladies finger Sabji 1/2 cup"]
+  },
+  "Thursday":
+  {
+    "Breakfast":["Chapatis-4","Egg roast 1/2 cup 2 egg"],
+    "Mid meal":["green gram sprouts 1 cup"],
+    "Lunch":["4 Roti","1/2 cup salad","Fish curry ( 180 gm fish)","1/2 cup cabbage subji"],
+    "Evening":["1 Portion fruit","cottage cheese"],
+    "Dinner":["3 Roti"," Tomato subji 1/2 cup"]
+  },
+  "Friday":
+  {
+    "Breakfast":["Soya flour Uthappam 2","Tomato /green chutney","1 glass skimmed milk"],
+    "Mid meal":["1 Portion fruit salad","Cottage cheese"],
+    "Lunch":["1.5 cup rice","Kidney beans curry 1 cup","1/2 cup cucumber salad","Ladies finger subji 1/2 cup"],
+    "Evening":["1 Cup light tea","Brown rice flakes poha with nuts 1 cup"],
+    "Dinner":["Wheat dosa 3","1 cup Bitter guard subji"]
+  },
+  "Saturday":
+  {
+    "Breakfast":["Chicken Keema Paratha 2","1 tbs green chutney","1 glass skim milk"],
+    "Mid meal":["1 cup boiled channa"],
+    "Lunch":["4 chapati","Grilled chicken 150 gm","Daal 1/2 cup","cucumber salad 1/2 cup"],
+    "Evening":["1 cup blue berry milk shake"],
+    "Dinner":["Broken wheat upma 1 cup","1/2 cup green beans sabji"]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Sunday":
+  {
+    "Breakfast":["Aloo Paratha (2)","Raita (1 cup)"],
+    "Mid meal":["Fruit Salad (1 cup)", "Tender Coconut Water (1 glass)"],
+    "Lunch":["1 cup moong dal","1 cup bhindi","2 chapatti", "salad"],
+    "Evening":["Tea/ Coffee (1 cup)","Boiled Chana Chat (1 cup)"],
+    "Dinner":["Chapati (2)","Jeera Aloo (1 cup)"]
+  },
+  "Monday":
+  {
+    "Breakfast":["Chapati (2)","Daal (1 cup)"],
+    "Mid meal":["Fruit Salad (1 cup)","Tender Coconut Water (1 glass)"],
+    "Lunch":["1 cup rajma","1 cup gobhi aloo","1 cup cucumber raita","1 cup rice","1 chapatis","onion salad"],
+    "Evening":["Tea/ Coffee (1 cup)"," Aloo Chat (1 cup)"],
+    "Dinner":["Chapati (2)","Mix Veg"]
+  },
+  "Tuesday":
+  {
+    "Breakfast":["Cheela (2)","Raita (1 cup)"],
+    "Mid meal":["Fruit Salad (1 cup)","Tender Coconut Water (1 glass)"],
+    "Lunch":["1 cup chicken curry","1 cup boiled rice","2 chapatis","salad"],
+    "Evening":["Tea/ Coffee (1 cup)","Papdi Chat (1 cup)"],
+    "Dinner":["Chapati (2)","Fish Curry (1 cup)"]
+  },
+  "Wednesday":
+  {
+    "Breakfast":["Veg. Poha (1 cup)","Raita (1/2 cup)"],
+    "Mid meal":["Fruit Salad (1 cup)","Tender Coconut Water (1 glass)"],
+    "Lunch":["1 cup white chana","palak paneer", "1 cup rice","1 chapatis","salad"],
+    "Evening":["Tea/ Coffee (1 cup)","Mur-mure Chat (1 cup)"],
+    "Dinner":["Chapati (2)","Mustard Greens (1 cup)"]
+  },
+  "Thursday":
+  {
+    "Breakfast":["Methi Paratha (2)","Raita (1 cup)"],
+    "Mid meal":["Fruit Salad (1 cup)","Tender Coconut Water (1 glass)"],
+    "Lunch":["1 cup soy bean curry","1 cup tinda vegetable","2 chapatis","salad"],
+    "Evening":["Tea/ Coffee (1 cup)","Boiled Chana Chat (1 cup)"],
+    "Dinner":["Chapati (2)","Bottle Gourd Curry (1 cup)"]
+  },
+  "Friday":
+  {
+    "Breakfast":["Chapati (2)","Daal (1 cup)"],
+    "Mid meal":["Fruit Salad (1 cup)","Tender Coconut Water (1 glass)"],
+    "Lunch":["1 cup spinach curry","1 cup boiled rice","1 chapatti","1 cup ghia raita","salad"],
+    "Evening":["Tea/ Coffee (1 cup)","Aloo Chat (1 cup)"],
+    "Dinner":["Chapati (2)","Matar and Mushroom Curry (1 cup)"]
+  },
+  "Saturday":
+  {
+    "Breakfast":["Veg Upma (1 cup)","Raita (1/2 cup)"],
+    "Mid meal":["Fruit Salad (1 cup)","Tender Coconut Water (1 glass)"],
+    "Lunch":["1 cup bhindi curry","1 cup rice", "salad"],
+    "Evening":["Tea/ Coffee (1 cup)","Papdi Chat (1 cup)"],
+    "Dinner":["Chapati (2)","Kofta (1 cup)"]
+  }
+}

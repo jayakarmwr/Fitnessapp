@@ -1,0 +1,58 @@
+{
+  "Sunday":
+  {
+    "Breakfast":["2 toasted brown bread","1/2 cup low fat milk (no sugar)"],
+    "Mid meal":["1 cup papaya"],
+    "Lunch":["1 cup arhar dal","1 chapati","1/2 cup low fat curd","salad"],
+    "Evening":["1 cup vegetable soup"],
+    "Dinner":["1 cup pumpkin","1 chapati","salad"]
+  },
+  "Monday":
+  {
+    "Breakfast":["1 onion stuffed chapati","1/2 cup low fat curd"],
+    "Mid meal":["1 cup coconut water"],
+    "Lunch":["1 cup moong dal","1 chapati","salad"],
+    "Evening":["1 cup pomegranate"],
+    "Dinner":["1 cup beans","1 chapati","salad"]
+  },
+  "Tuesday":
+  {
+    "Breakfast":["2 besan cheela","1/2 cup low fat curd"],
+    "Mid meal":["1 apple"],
+    "Lunch":["1 cup masoor dal","1 chapati","1/2 up low fat curd","salad"],
+    "Evening":["1 cup tomato soup"],
+    "Dinner":["1 cup carrot peas vegetable","1 chapati","salad"]
+  },
+  "Wednesday":
+  {
+    "Breakfast":["1 cup vegetable brown bread upma","1/2 cup low fat milk (no sugar)"],
+    "Mid meal":["1 cup musk melon"],
+    "Lunch":["1 cup rajma curry","1 chapati","salad"],
+    "Evening":["1 cup vegetable soup"],
+    "Dinner":["1 cup parwal vegetable","1 chapati","salad"]
+  },
+  "Thursday":
+  {
+    "Breakfast":["1 cucumber hung curd sandwich","1/2 tsp green chutney","1 orange"],
+    "Mid meal":["1 cup buttermilk"],
+    "Lunch":["1 cup white chana","1 chapatti","salad"],
+    "Evening":["1 cup low fat milk (no sugar)"],
+    "Dinner":["1 cup cauliflower vegetable","1 chapatti","salad"]
+  },
+  "Friday":
+  {
+    "Breakfast":["1 cup vegetable poha","1 cup low fat curd"],
+    "Mid meal":["1 cup watermelon"],
+    "Lunch":["1 cup chana dal","1 chapati","salad"],
+    "Evening":["1 cup sprouts salad"],
+    "Dinner":["1 cup tinda vegetable","1 chapati","salad"]
+  },
+  "Saturday":
+  {
+    "Breakfast":["1 cup low fat milk with oats","3-4 strawberries"],
+    "Mid meal":["1 cup coconut water"],
+    "Lunch":["1 cup soybean curry","1 chapati", "1/2 cup low fat curd","salad"],
+    "Evening":["1 cup fruit salad"],
+    "Dinner":["1 cup bottle gourd vegetable","1 chapati","salad"]
+  }
+}

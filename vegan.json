@@ -1,0 +1,58 @@
+{
+  "Sunday":
+  {
+    "Breakfast": ["Aloo Paratha (2)","Bottle gourd Raita (1/2 cup)"],
+    "Mid meal":["Shikanji (1 glass)","1 Apple"],
+    "Lunch":["1/2 cup rice","1 chapati","Daal (1/2 cup)", "Cauliflower curry (1 cup)"],
+    "Evening":["Boiled Corns and Carrots (1/2 cup)","Black Tea (1 cup)"],
+    "Dinner":["2 Chapati","Lady's Finger Curry (1 cup)"]
+  },
+  "Monday":
+  {
+    "Breakfast":["Paratha (2)","Dum Aloo (1/2 cup)"],
+    "Mid meal":["Shikanji (1 glass)","1 Lemon juice"],
+    "Lunch":["1 cup Rice","Soy Bean curry (1 cup)","Salad (1/2 cup)"],
+    "Evening":["Chana Chat (1/2 cup)","Black Tea (1 cup)"],
+    "Dinner":["2 Chapathi","Mix Veg (1 cup)"]
+  },
+  "Tuesday":
+  {
+    "Breakfast":["Onion Paratha (2)","Raita (1/2 cup)"],
+    "Mid meal":["Shikanji (1 glass)","Pomegranate (1/2 cup)"],
+    "Lunch":["1/2 cup rice","1 chapati","Daal (1/2 cup)","Cauliflower curry (1 cup)"],
+    "Evening":["Sprouts (1/2 cup)"],
+    "Dinner":["2 Chapati","Snake Gourd Curry (1 cup)"]
+  },
+  "Wednesday":
+  {
+    "Breakfast":["Paratha (2)","Baked Brinjal (1/2 cup)"],
+    "Mid meal":["Shikanji (1 glass)","2 Chikus"],
+    "Lunch":["1 cup Rice","Soy bean curry (1 cup)","Salad (1/2 cup)"],
+    "Evening":["Cucumber and Carrot Salad (1/2 cup)","Black Tea (1 cup)"],
+    "Dinner":["2 Chapati","Potato and Pumpkin Curry (1 cup)"]
+  },
+  "Thursday":
+  {
+    "Breakfast":["Aloo Paratha (2)","Cucumber Raita (1/2 cup)"],
+    "Mid meal":["Shikanji (1 glass)","Grapes (1 cup)"],
+    "Lunch":["1/2 cup Rice","1 Chapati", "Daal (1/2 cup)","Stuffed Capsicum (1 cup)"],
+    "Evening":["Boiled Corns and Carrots (1/2 cup)", "Black Tea (1 cup)"],
+    "Dinner":["2 Chapati","Potato and French Beans Curry (1 cup)"]
+  },
+  "Friday":
+  {
+    "Breakfast":["Onion Paratha (2)","Baked Pointed Gourd (4 pcs.)"],
+    "Mid meal":["Shikanji (1 glass)","1 Banana"],
+    "Lunch":["1/2 cup Rice","1 Chapati","1/2 cup Daal","Mushroom Curry (1 cup)"],
+    "Evening":["Chana Chat (1/2 cup)","Black Tea (1 cup)"],
+    "Dinner":["2 Chapati","Ridge Gourd Curry (1 cup)"]
+  },
+  "Saturday":
+  {
+    "Breakfast":["Methi Paratha (2)","Raita (1/2 cup)"],
+    "Mid meal":["Shikanji (1 glass)","1 Mango"],
+    "Lunch":["3 Chapati","Baked Daal Badi (1/2 cup)", "Drumstick Curry (1 cup)"],
+    "Evening":["Sprouts (1/2 cup)"],
+    "Dinner":["2 Chapati","Carrot and Beetroot Curry (1 cup)"]
+  }
+}

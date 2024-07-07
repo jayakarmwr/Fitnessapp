@@ -1,0 +1,58 @@
+{
+  "Sunday":
+  {
+    "Breakfast":["2 brown sandwich","green chutney","1 cup milk","3 cashews","4 almonds","2 walnuts"],
+    "Mid meal":["1 cup banana shake"],
+    "Lunch":["1 cup arhar dal","1 cup potato curry","3 chapatti","1/2 cup rice","1/2 cup low fat curd","salad"],
+    "Evening":["1 cup strawberry smoothie","1 cup vegetable poha"],
+    "Dinner":["1.5 cup bhindi curry","3 chapati","salad"]
+  },
+  "Monday":
+  {
+    "Breakfast":["3 stuffed onion paratha","1 cup curd","3 cashews","4 almonds","2 walnuts"],
+    "Mid meal":["1 cup mango shake"],
+    "Lunch":["1 cup moong dal","1 cup potato and cauliflower vegetable","3 chapatti","1/2 cup rice","salad"],
+    "Evening":["1 cup pomegranate juice","2 butter toasted bread"],
+    "Dinner":["1 cup beans potato vegetable","3 chapatti","salad"]
+  },
+  "Tuesday":
+  {
+    "Breakfast":["3 paneer stuffed besan cheela" ,"green chutney","1 cup curd","3 cashews","4 almonds","2 walnuts"],
+    "Mid meal":["1 apple smoothie with maple syrup"],
+    "Lunch":["1 cup masoor dal","3 chapati","1/2 cup rice","1 cup low curd","salad"],
+    "Evening":["1 cup tomato soup with bread crumbs","1 cup aloo chaat"],
+    "Dinner":["1 cup carrot peas vegetable","3 chapati","salad"]
+  },
+  "Wednesday":
+  {
+    "Breakfast":["1.5 cup vegetable bread upma","1 cup milk","3 cashews","4 almonds","2 walnuts"],
+    "Mid meal":["1 cup ripe banana with 2 tsp ghee"],
+    "Lunch":["1 cup rajma curry","1 cup spinach potato","3 chapati","1/2 cup rice","salad"],
+    "Evening":["1 cup vegetable juice","1 cup upma"],
+    "Dinner":["1.5 cup Parwal vegetable","3 chapati","salad"]
+  },
+  "Thursday":
+  {
+    "Breakfast":["2 cucmber potato sandwich","1 tsp green chutney","1 orange juice","3 cashews","2 walnuts","4 almonds"],
+    "Mid meal":["1 cup buttermilk","1 cup sweet potato chaat"],
+    "Lunch":["1 cup white chana","3 chapati","1/2 cup rice","salad"],
+    "Evening":["1 cup almond milk","banana"],
+    "Dinner":["1 cup cauliflower potato vegetable","3 chapati","salad"]
+  },
+  "Friday":
+  {
+    "Breakfast":["2 cup vegetable poha","1 cup curd","3 cashews","4 almonds","2 walnuts"],
+    "Mid meal":["2 cups watermelon juice"],
+    "Lunch":["1 cup chana dal","1 cup bhindi vegetable","3 chapati","1/2 cup rice","salad"],
+    "Evening":["1 cup sprouts salad","2 potato cheela","green chutney"],
+    "Dinner":["1 cup peas mushroom vegetable","3 chapatti","salad"]
+  },
+  "Saturday":
+  {
+    "Breakfast":["3 vegetable suji cheela","1 cup strawberry shake","4 cashews","4 almonds","3 walnuts"],
+    "Mid meal":["1 cup coconut water","1 cup pomegranate"],
+    "Lunch":["1 cup mix dal","1 cup soybean curry","3 chapatti","1/2 cup curd", "salad"],
+    "Evening":["1 cup fruit salad","4 pc vegetable cutlets","green chutney"],
+    "Dinner":["1 cup karela vegetable","3 chapatti","salad"]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Sunday":
+  {
+    "Breakfast": ["4 Idli","Sambar 1/2 cup/ 1 table spoon Green chutney"],
+    "Mid meal":["green gram sprouts 1 cup"],
+    "Lunch":["3 Roti","1/2 cup salad","Bhindi curry ( 100 gm bhindi)","1/2 cup cabbage sabji"],
+    "Evening":["1 Portion fruit(Avoid high energy fruits Eg: Banana, Mango, Chickoo)"],
+    "Dinner":["2 Chapatis","Tomato sabji 1/2 cup"]
+  },
+  "Monday":
+  {
+    "Breakfast":["2 Slice brown bread","1 slice low fat cheese","1/2 cup low fat milk"],
+    "Mid meal":["1 Portion fruit(Avoid high energy fruits Eg: Banana, Mango, Chickoo)"],
+    "Lunch":["Veg pulav rice 1 cup","1/2 cup Soya Chunk curry","1/2 cup Low fat curd"],
+    "Evening":["1 cup light tea","2 wheat rusk"],
+    "Dinner":["2 Chapatis","Ladies finger sabji 1/2 cup"]
+  },
+  "Tuesday":
+  {
+    "Breakfast":["Chapati 3","1/2 cup Potato green peas curry"],
+    "Mid meal":["1/2 cup boiled black channa"],
+    "Lunch":["1 cup rice","1/2 cup Dhal","Palak sabji 1/2 cup","1/2 cup low fat curd"],
+    "Evening":["1 Portion fruit(Avoid high energy fruits. Eg: Banana, Mango, Chickoo)"],
+    "Dinner":["Broken wheat upma 1 cup","1/2 cup green beans sabji"]
+  },
+  "Wednesday":
+  {
+    "Breakfast":["Methi Paratha 2","1 tbs green chutney"],
+    "Mid meal":["1 Portion fruit(Avoid high energy fruits. Eg: Banana, Mango, Chickoo)"],
+    "Lunch":["1 cup rice+ karela curry( 150 gm karela+ 1 cup cucumber salad"],
+    "Evening":["1 Cup light tea","Brown rice flakes poha 1 cup"],
+    "Dinner":["Wheat dosa 3","1/2 cup Bitter guard sabji"]
+  },
+  "Thursday":
+  {
+    "Breakfast": ["Vegetable Oats Upma 1 cup","1/2 cup low fat milk"],
+    "Mid meal":["plane Yoghurt with raw vegetables / grilled vegetables -1 cup"],
+    "Lunch":["1/2 cup rice","2 chapatis","1/2 cup Kidney beans curry","Snake guard sabji 1/2 cup"],
+    "Evening":["1 cup boiled channa","light tea 1 cup"],
+    "Dinner":["2 Chapatis","1/2 cup mix veg curry"]
+  },
+  "Friday":
+  {
+    "Breakfast":["Mix veg Poha 1 cup","1/2 cup low fat milk"],
+    "Mid meal":["1 Portion fruit(Avoid high energy fruits. Eg: Banana, Mango, Chickoo)"],
+    "Lunch":["3 Chapatis","1/2 cup cluster beans sabji","daal curry 1/2 cup"],
+    "Evening":["1 cup tea","2 biscuits ( Nutrichoice or Digestiva or Oatmeal)"],
+    "Dinner":["2 Chapatis","Ridge guard sabji 1/2 cup"]
+  },
+  "Saturday":
+  {
+    "Breakfast": ["Uthappam 2","1 tbs green chutney"],
+    "Mid meal":["1 cup boiled channa"],
+    "Lunch":["1 cup rice","Soya chunk curry 1/2 cup","Ladies finger sabji 1/2 cup","small cup low fat curd"],
+    "Evening":["1 Portion fruit(Avoid high energy fruits. Eg: Banana, Mango, Chickoo)"],
+    "Dinner":["Broken wheat upma 1 cup","1/2 cup green beans sabji"]
+  }
+}

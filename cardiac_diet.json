@@ -1,0 +1,58 @@
+{
+  "Sunday":
+  {
+    "Breakfast": ["3 Ragi Dosa","2 tsp Methi Chutney","1 glass Milk(Toned)/1 cup Tea"],
+    "Mid meal":["1 Medium Banana"],
+    "Lunch":["1 cup Brown Rice","2 Chapati","1/2 cup Cabbage Dal","1/2 cup Capsicum Sabji","1 Glass Buttermilk"],
+    "Evening":["1 glass Almond Milk(Toned)","2-3 Oat Biscuits"],
+    "Dinner":["3 Chapatis","1/2 cup Ridge Gourd Sabji","1/2 cup Vegetable Salad","1 glass Buttermilk"]
+  },
+  "Monday":
+  {
+    "Breakfast": ["Dalia Upma-1.5 cup with Vegetables(Potato,Onion,Tomato,Green Peas,Carrot)","1 glass Milk(Toned)/1 cup Tea"],
+    "Mid meal":["1 Medium Apple"],
+    "Lunch":["4 Chapatis","1 cup Rajma Curry"],
+    "Evening":["1 cup Boiled Sprouted Green Gram Dal","1 cup Green Tea"],
+    "Dinner":["3 Chapatis","1/2 cup Ivy Gourd Sabji","1/2 cup Vegetable Salad","1 glass Buttermilk"]
+  },
+  "Tuesday":
+  {
+    "Breakfast":["Oats-1/2 cup","Milk(Toned)-150ml"],
+    "Mid meal":["1 Medium Orange"],
+    "Lunch":["1 cup Brown Rice","2 Jowar Chapatis","1/2 cup Tomato Dal","1/2 cup Cluster Beans Curry","1 glass Buttermilk"],
+    "Evening":["1 small fist of Peanuts,Raisins,Almonds,Walnuts","1 cup Green Tea"],
+    "Dinner":["3 Chapatis","1/2 cup Ladies Finger Curry","1/2 cup Vegetable Salad","1 glass Buttermilk"]
+  },
+  "Wednesday":
+  {
+    "Breakfast":["Idly-4","Sambhar-1/2 cup","Green Chutney-2 tsp","1 glass Milk(Toned)/1 cup Tea"],
+    "Mid meal":["1 Medium Pomegranate"],
+    "Lunch":["4 Bajra Chapatis","1/2 cup Lauki Dal","1/2 cup Green Peas and Capsicum Sabji","1 glass Buttermilk"],
+    "Evening":["1 cup Boiled Sprouted Bengal Gram","1 cup Green Tea"],
+    "Dinner":["3 Chapatis","1/2 cup Snake Gourd Sabji","1/2 cup Vegetable Salad","1 glass Buttermilk"]
+  },
+  "Thursday":
+  {
+    "Breakfast":["Soya and wheat dosa-3","2 tsp Pudina Chutney","1 glass Milk(Toned)/1 cup Tea"],
+    "Mid meal":["100gm Water Melon"],
+    "Lunch":["1 cup Brown Rice","2 Bajra Chapatis","1/2 cup Methi Dal","1/2 cup French Beans Sabji","1 glass Buttermilk"],
+    "Evening":["1 glass Walnut Milk(Toned)","2-3 Multigrain Biscuits"],
+    "Dinner":["3 Chapatis","1/2 cup Moolimethi Sabji","1/2 cup Vegetable Salad","1 glass Buttermilk"]
+  },
+  "Friday":
+  {
+    "Breakfast":["Roasted Oats Upma-1.5 cup with vegetables(Potato,Onion,Tomato,Green Peas,Carrot)","1 glass Milk(Toned)/1 cup Tea"],
+    "Mid meal":["100gm Musk Melon"],
+    "Lunch":["1 cup White Rice","2 Chapatis","2 cup Soya Chunk and Aloo Sabji"],
+    "Evening":["1 glass Avocado(75gm) Milkshake(milk-150ml-toned)"],
+    "Dinner":["3 Chapatis","1/2 cup Lauki Sabji","1/2 cup Vegetable Salad","1 glass Buttermilk"]
+  },
+  "Saturday":
+  {
+    "Breakfast":["Paratha-2(Aloo/Methi/Mooli/Gobhi)","2 tsp Green Chutney","1 glass Milk(Toned)/1 cup Tea"],
+    "Mid meal":["1 Medium Pear"],
+    "Lunch":["4 Chapatis","1/2 cup Spinach Dal","1/2 cup Bitter Gourd Sabji","1 glass Buttermilk"],
+    "Evening":["1 glass Milk(Toned)","2-3 Ragi Biscuits"],
+    "Dinner":["3 Chapatis","1/2 cup Cauliflower Sabji","1/2 cup Vegetable Salad","1 glass Buttermilk"]
+  }
+}
